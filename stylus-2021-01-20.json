@@ -1,0 +1,201 @@
+[
+	{
+		"installDate": 1539976058094,
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "CopyPasteCharacter-Styles",
+		"sections": [
+			{
+				"code": "#contents { width:auto; }\n.header_ad, #right_sidebar, #right_bottom_ad, #footer {display:none;}",
+				"urls": [],
+				"urlPrefixes": [
+					"www.copypastecharacter.com"
+				],
+				"domains": [],
+				"regexps": []
+			}
+		],
+		"id": 1,
+		"_id": "526e6986-31f6-481f-889e-e7316e199c70",
+		"_rev": 1580741159474
+	},
+	{
+		"installDate": 1539976112487,
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "2SXC Editor",
+		"sections": [
+			{
+				"code": "/*\n.modal-ent-edit.modal-dialog { margin:0 auto !important; padding-left: 70px; }\n.form-group iframe { height: 642px !important; }\nh3.clickable.ng-binding, .cke_notification, .ckeditorLoader, .ckeditorLoaderText { display:none; }\n.sc-content-block-quick-insert { display:none !important; }\n.ng-isolate-scope .tab-content { padding:0; }\neav-language-switcher .nav-tabs>li { margin:1px; background-color:#eee; font-size:0.8em; font-weight:bold; }\neav-language-switcher .tooltip { display:none !important; }\neav-language-switcher .nav-tabs>li a { padding: 2px 8px }\neav-language-switcher .nav-tabs>li.active, eav-language-switcher .nav-tabs>li>a:hover  { border-top-style: none; }\neav-language-switcher .nav-tabs>li.active { outline:1px solid red; }\neav-language-switcher .nav-tabs>li>a:hover  { outline: 1px solid #770077;}\ndiv.sc-cb-highlight-for-insert { background-color:inherit !important; }\n*/\n\n/* .eav-localization.dropdown .dropdown-submenu > .dropdown-menu { left:-94% !important; } */\n\n#chat { display: none; }\n\nmat-card { height: auto !important; }\n.scrollable.lang-switch { display: block !important; }\n.mat-form-field-infix > textarea { font-family: courier; height: 50vh; }\n.c-multi-item-dialog { max-width: 100% !important; }\n.c-multi-item-dialog__save-container { bottom: auto !important; top: -60px !important; right: 16px !important; }\n.header__publish-button { top: -30px; }\n.header__exit-button { top: -25px; }\n.sc-content-block-menu.sc-content-block-quick-insert { display: none !important; }",
+				"domains": [
+					"www.ergotron.com",
+					"ergotron.westus.cloudapp.azure.com",
+					"ergotroncom.azurewebsites.net",
+					"ergotroncom-test.azurewebsites.net",
+					"ergotroncomtest-modtest.azurewebsites.net",
+					"ergotroncomtest-staging.azurewebsites.net"
+				]
+			}
+		],
+		"id": 2,
+		"updateDate": 1611180989380,
+		"_id": "6a243972-53b9-4fe5-ae50-cd7820c82891",
+		"_rev": 1611180989380
+	},
+	{
+		"installDate": 1539976215239,
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "Remove Page Break Border in Google Docs",
+		"sections": [
+			{
+				"code": ".kix-page-compact::before { border-style:none; }",
+				"domains": [
+					"docs.google.com"
+				]
+			}
+		],
+		"id": 4,
+		"updateDate": 1579901549941,
+		"_id": "83f9f285-4882-4b14-a779-6957f62c799b",
+		"_rev": 1600789428009
+	},
+	{
+		"installDate": 1539976257715,
+		"enabled": false,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "YouTube Hide Cards",
+		"sections": [
+			{
+				"code": ".ytp-ce-element { display: none; }",
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"youtube.com"
+				],
+				"regexps": []
+			}
+		],
+		"id": 5,
+		"_id": "d4f9e43e-9fd4-4eb9-bf0a-b6d805d6173f",
+		"_rev": 1580741159474
+	},
+	{
+		"installDate": 1539976282525,
+		"enabled": false,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "CSS Debugger",
+		"sections": [
+			{
+				"code": "*:not(path):not(g) {\n    color:                    hsla(210, 100%, 100%, 0.9) !important;\n    background:               hsla(210, 100%,  50%, 0.5) !important;\n    outline:    solid 0.25rem hsla(210, 100%, 100%, 0.5) !important;\n    box-shadow: none !important;\n}",
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [],
+				"regexps": []
+			}
+		],
+		"id": 6,
+		"_id": "0f0b3f20-e7bc-4182-8e57-3ebb5f8aa7f3",
+		"_rev": 1586465287114
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1547142150522,
+		"name": "Remove Ads from lipsum.com",
+		"sections": [
+			{
+				"code": ".banner, #Languages, #bannerL, #bannerR { display: none !important; }",
+				"domains": [
+					"lipsum.com"
+				]
+			}
+		],
+		"id": 7,
+		"updateDate": 1579901533837,
+		"_id": "e509d026-a80b-462b-aa17-a6445131c233",
+		"_rev": 1580741159474
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1592328780329,
+		"name": "copypastecharacter.com",
+		"sections": [
+			{
+				"code": ".header_ad, #right_sidebar, #footer { display: none; }",
+				"domains": [
+					"copypastecharacter.com"
+				]
+			}
+		],
+		"updateDate": 1592328869064,
+		"_id": "36feea86-753f-460c-8399-b5666695b015",
+		"_rev": 1592328869064,
+		"id": 11
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1605556795190,
+		"name": "Hide Controller Notificaitons",
+		"sections": [
+			{
+				"code": ".jq-toast-single { display: none !important; }",
+				"domains": [
+					"retroemulator.com"
+				]
+			}
+		],
+		"updateDate": 1605556966700,
+		"_id": "eda6eae6-5efa-4d6a-9f25-7d7c3f180778",
+		"_rev": 1605556966700,
+		"id": 12
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1611180884857,
+		"name": "Hide OneTrust",
+		"sections": [
+			{
+				"code": "#onetrust-consent-sdk { display: none; }",
+				"domains": [
+					"ergotroncom-staging.azurewebsites.net",
+					"ergotroncomtest-modtest.azurewebsites.net"
+				]
+			}
+		],
+		"updateDate": 1611180913606,
+		"_id": "1802f3a5-f6bc-46fa-8608-20cf7f26b5ca",
+		"_rev": 1611180913606,
+		"id": 13
+	}
+]
